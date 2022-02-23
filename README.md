@@ -1,2 +1,2 @@
-# projeto-python
- Buscador ações
+# Buscador de Ações
+ Projeto que recebe o símbolo da ação (PETR4, BBAS3, CASH3, etc) do usuário e retorna algumas informações como o valor mínimo, médio e máximo, valor de abertura e de fechamento, valor de melhor oferta de compra e de venda. Esse projeto foi realizado com o objetivo de exercitar meus conhecimentos em python portanto não constitui em sugestão de investimento e alguns dados podem estar atrasados.
